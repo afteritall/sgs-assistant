@@ -55,3 +55,5 @@ powershell -ExecutionPolicy Bypass -File .\scripts\build-lan.ps1
 - `data/`：本地 H2 数据库。
 - `upload/`：用户上传的图片。
 - `logs/`：运行日志或临时日志。
+
+## 三国杀真好玩
